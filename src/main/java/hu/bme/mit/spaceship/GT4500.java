@@ -92,6 +92,7 @@ public class GT4500 implements SpaceShip {
     }
 
     //visszatér a megfelelő értékkel
+  //nem tudom hogy mi legyen ez a változtatás, de így jó lesz
     return firingSuccess;
   }
 
