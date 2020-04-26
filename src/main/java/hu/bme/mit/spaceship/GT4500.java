@@ -83,6 +83,7 @@ public class GT4500 implements SpaceShip {
         break;
     }
 
+  //nem tudom hogy mi legyen ez a változtatás, de így jó lesz
     return firingSuccess;
   }
 
